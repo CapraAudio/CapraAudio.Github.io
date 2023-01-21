@@ -1,4 +1,3 @@
-theme: minimal
 # Capra Audio
 Capra Audio Test
 
